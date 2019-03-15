@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>paypal</name>
+    <displayName><![CDATA[Ihr PayPal-Team]]></displayName>
+    <version><![CDATA[4.4.2]]></version>
+    <description><![CDATA[Profitieren Sie von den PayPal-Zahlungsl&ouml;sungen und kurbeln Sie Ihr Gesch&auml;ft an  online, mobil und international. Akzeptieren Sie Kreditkarten und PayPal-Zahlungen.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Wollen Sie Ihre Daten wirklich löschen?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,13 @@
+1498695094
+s:1434:"HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 28 Jun 2017 22:11:20 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1123
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"15283","name":"statssearch","displayName":"Shop search","categoryName":"Natif","description":"Adds a tab to the Stats dashboard, showing which keywords have been searched by your store&#39;s visitors","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/product.php?id_product=15283?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-DE&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/15283.jpg","fullDescription":"Adds a tab to the Stats dashboard, showing which keywords have been searched by your store&#39;s visitors.","additionalDescription":"","features":"","customer_benefits":"","demo_video":"","version":"1.4.1","last_update":"2017-01-31 04:57:16","compatibility":{"from":"1.6.0.4","to":"1.7.0.6"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Hergestellt von PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/-pprod\/.jpg","big":"https:\/\/medias2.prestastore.com\/-pbig\/.jpg"}}]}";

@@ -1,0 +1,13 @@
+1518562036
+s:2179:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 13 Feb 2018 20:46:55 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1868
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"22317","name":"ps_customtext","displayName":"Custom text blocks","categoryName":"Natif","description":"Display custom blocks of rich text in one zone, usually on the homepage. Thanks to hooks, you can display this block anywhere in your shop","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/product.php?id_product=22317?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-DE&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22317.jpg","fullDescription":"<span style=\"color:rgb(0, 0, 0)\">Display custom blocks of rich text in one zone, usually on the homepage. Thanks to hooks, you can display this block anywhere in your shop.<br \/>\r\n<br \/>\r\nFor instance, you can use this block of text to make a short presentation of your brand on your homepage.<\/span>","additionalDescription":"\u200bBy providing information to your customers, this block of text can help you both in your content strategy and your search engine optimization.&nbsp;","features":"Thanks to a rich text editor, you can format your content to your taste. By default, it will match the behavior of your theme.<br \/>\r\nIf need be, you can add links, images, and even videos.","customer_benefits":"","demo_video":"","version":"1.0.5","last_update":"2017-02-01 04:57:04","compatibility":{"from":"1.7.0.0","to":"1.7.2.4"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Hergestellt von PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/838741-pprod\/.jpg","big":"https:\/\/medias2.prestastore.com\/838741-pbig\/.jpg"},"pictures":{"small":["https:\/\/medias2.prestastore.com\/838740-pprod\/.jpg"],"big":["https:\/\/medias2.prestastore.com\/838740-pbig\/.jpg"]}}]}";

@@ -1,0 +1,13 @@
+1494456324
+s:1393:"HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 10 May 2017 20:45:06 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1082
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"15278","name":"statsorigin","displayName":"Visitors origin","categoryName":"Natif","description":"Adds a graph displaying the websites your visitors came from to the Stats dashboard","author":"PrestaShop","url":"http:\/\/addons.prestashop.com\/product.php?id_product=15278?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-DE&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/15278.jpg","fullDescription":"Adds a graph displaying the websites your visitors came from to the Stats dashboard.","additionalDescription":"","features":"","customer_benefits":"","demo_video":"","version":"1.4.1","last_update":"2017-01-31 04:57:15","compatibility":{"from":"1.6.0.4","to":"1.7.0.6"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Hergestellt von PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/-pprod\/.jpg","big":"https:\/\/medias2.prestastore.com\/-pbig\/.jpg"}}]}";

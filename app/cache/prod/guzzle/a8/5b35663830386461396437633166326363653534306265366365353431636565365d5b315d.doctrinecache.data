@@ -1,0 +1,13 @@
+1497742381
+s:2069:"HTTP/1.1 200 OK
+Server: nginx
+Date: Sat, 17 Jun 2017 21:32:41 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 1758
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+X-UA-Compatible: IE=Edge,chrome=1
+Strict-Transport-Security: max-age=0
+
+{"modules":[{"id":"22314","name":"ps_categorytree","displayName":"Category tree links","categoryName":"Natif","description":"Shows the current category and subcategories in a block on the left column of your shop. \u200bIt is useful to navigate the category pages and visualize the subcategories","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/product.php?id_product=22314?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-DE&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22314.jpg","fullDescription":"<span style=\"color:rgb(0, 0, 0)\">Shows the current category and subcategories in a block on the left column of your shop.<br \/>\r\n\u200bIt is useful to navigate the category pages and visualize the subcategories.<\/span>","additionalDescription":"\u200bMakes it easier for your customer to navigate your shop and see available subcategories.","features":"You can select:\r\n<ul>\r\n\t<li>which category you want to highlight,<\/li>\r\n\t<li>how many subcategories you want to display,<\/li>\r\n\t<li>and how to sort categories.<\/li>\r\n<\/ul>\r\n","customer_benefits":"","demo_video":"","version":"1.0.5","last_update":"2017-02-01 04:57:02","compatibility":{"from":"1.7.0.0","to":"1.7.0.6"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"Hergestellt von PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias1.prestastore.com\/838735-pprod\/.jpg","big":"https:\/\/medias3.prestastore.com\/838735-pbig\/.jpg"},"pictures":{"small":["https:\/\/medias3.prestastore.com\/838734-pprod\/.jpg"],"big":["https:\/\/medias2.prestastore.com\/838734-pbig\/.jpg"]}}]}";

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/de/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/de/blog/feed.xml</link>
+    <description></description>
+    <language>de</language>
+     <atom:link href="https://www.prestashop.com/de/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Ratenkauf – das Schmuckstück im Checkout des Onlineshops</title>
+    <link>https://www.prestashop.com/de/blog/Schmuckst%C3%BCck-Checkout-Onlineshops</link>
+    <description>Angebot und Nachfrage: So geht Marktwirtschaft. In Sachen Payment ist der Ratenkauf eine der populärsten Bezahlvarianten Deutschlands – für den stationären sowie auch den digitalen Handel.</description>
+     <pubDate>Wed, 05 Sep 2018 17:38:40 +0200</pubDate>
+ <dc:creator>easycredit</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/Schmuckst%C3%BCck-Checkout-Onlineshops</guid>
+  </item>
+  <item>
+    <title>Der gesicherte Rechnungskauf – die Antwort auf die PayPal-Gebührenerhöhung</title>
+    <link>https://www.prestashop.com/de/blog/der-gesicherte-Rechnungskauf</link>
+    <description>Sicher, bequem und unkompliziert. So stellen wir uns alle das Bezahlen im Internet vor. Keine hohen Gebühren, kein lästiges Anmelden oder Ausfüllen von Formularen. </description>
+     <pubDate>Fri, 31 Aug 2018 11:07:48 +0200</pubDate>
+ <dc:creator>heidelpay</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/der-gesicherte-Rechnungskauf</guid>
+  </item>
+  <item>
+    <title>Think big: 5 Tipps für den eCommerce-Durchbruch</title>
+    <link>https://www.prestashop.com/de/blog/think-big-5-tipps-fuer-den-ecommerce-durchbruch</link>
+    <description>Wer ein Projekt im eCommerce plant, beschreitet ein Terrain, das endlose Möglichkeiten bietet – aber auch ebenso viele Herausforderungen.</description>
+     <pubDate>Thu, 16 Aug 2018 14:17:01 +0200</pubDate>
+ <dc:creator>ps_partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/think-big-5-tipps-fuer-den-ecommerce-durchbruch</guid>
+  </item>
+  <item>
+    <title>CCBill spricht über die gemeinsame Teilnahme an der DMEXCO mit Prestashop</title>
+    <link>https://www.prestashop.com/de/blog/ein-unternehmen-zu-fuehren-ist-nicht-immer-einfach</link>
+    <description>DMEXCO ist DIE Messe für alle Key Players im Digitalen Business, Marketing und Innvovation.</description>
+     <pubDate>Tue, 07 Aug 2018 15:51:57 +0200</pubDate>
+ <dc:creator>ps_partners</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/ein-unternehmen-zu-fuehren-ist-nicht-immer-einfach</guid>
+  </item>
+  <item>
+    <title>Mollie für PrestaShop: 4 Tipps zur Zeitersparnis und Produktivitätssteigerung</title>
+    <link>https://www.prestashop.com/de/blog/mollie-fuer-prestashop-4-tipps-zur-zeitersparnis-und-produktivitaetssteigerung</link>
+    <description>Ein Unternehmen zu führen ist nicht immer einfach; es erfordert viel Zeit, die man als Unternehmer nicht gerade hat.</description>
+     <pubDate>Tue, 07 Aug 2018 15:34:33 +0200</pubDate>
+ <dc:creator>mollie_de</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/mollie-fuer-prestashop-4-tipps-zur-zeitersparnis-und-produktivitaetssteigerung</guid>
+  </item>
+  <item>
+    <title>Treffen Sie uns auf der Dmexco 2018</title>
+    <link>https://www.prestashop.com/de/blog/treffen-sie-uns-auf-der-dmexco-2018</link>
+    <description>PrestaShop wird am 12. &amp;amp; 13. September auf der DMEXCO, in der Koelnmesse in Köln, ausstellen.</description>
+     <pubDate>Wed, 01 Aug 2018 00:00:00 +0200</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/treffen-sie-uns-auf-der-dmexco-2018</guid>
+  </item>
+  <item>
+    <title>Globaler Shopping-Lifestyle und Tourismus bieten Händlern neue Umsatzchancen</title>
+    <link>https://www.prestashop.com/de/blog/globaler-shopping-lifestyle-und-tourismus-bieten-haendlern-neue-umsatzchancen</link>
+    <description>Für Händler in Europa öffnet sich der weltweite Markt immer mehr – das bringt enorme Chancen mit sich, vorausgesetzt, man hält mit den aktuellen Entwicklungen Schritt.</description>
+     <pubDate>Tue, 31 Jul 2018 11:03:23 +0200</pubDate>
+ <dc:creator>wirecard_de</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/globaler-shopping-lifestyle-und-tourismus-bieten-haendlern-neue-umsatzchancen</guid>
+  </item>
+  <item>
+    <title>Wie können Sie zum PrestaShop-Projekt beitragen?</title>
+    <link>https://www.prestashop.com/de/blog/wie-koennen-sie-zum-prestashop-projekt-beitragen</link>
+    <description>Wie im Titel dieses Artikels angegeben, haben wir einen Leitfaden für Sie vorbereitet, der alle erforderlichen Informationen enthält, um zum PrestaShop-Projekt beizutragen.</description>
+     <pubDate>Tue, 24 Jul 2018 18:04:31 +0200</pubDate>
+ <dc:creator>camille.teissier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/wie-koennen-sie-zum-prestashop-projekt-beitragen</guid>
+  </item>
+  <item>
+    <title>eBay „Produktbasierte Kauferfahrung“: Änderungen seit Mai 2018 die alle eBay Händler betreffen</title>
+    <link>https://www.prestashop.com/de/blog/ebay-produktbasierte-kauferfahrung-aenderungen</link>
+    <description>Was ist die neue “Produktbasierte Kauferfahrung”?</description>
+     <pubDate>Wed, 11 Jul 2018 17:36:49 +0200</pubDate>
+ <dc:creator>magnalister</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/ebay-produktbasierte-kauferfahrung-aenderungen</guid>
+  </item>
+  <item>
+    <title>Bereit für den nächsten Schritt? Expandieren Sie ins Ausland</title>
+    <link>https://www.prestashop.com/de/blog/bereit-fuer-den-naechsten-schritt-expandieren-sie-ins-ausland</link>
+    <description>In Europa wächst der grenzüberschreitende Online-Handel jährlich um 30% und wird bis 2020 rund 130 Milliarden Euro ausmachen.(1) Kunden erhalten im Ausland Zugang zu Pr</description>
+     <pubDate>Wed, 04 Jul 2018 11:19:46 +0200</pubDate>
+ <dc:creator>paypal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/de/blog/bereit-fuer-den-naechsten-schritt-expandieren-sie-ins-ausland</guid>
+  </item>
+  </channel>
+</rss>
